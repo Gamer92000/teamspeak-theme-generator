@@ -1,7 +1,7 @@
 {
-  "name": "teamspeak-5-theme-generator",
+  "name": "teamspeak-theme-generator",
   "version": "0.1.0",
-  "homepage": "https://Gamer92000.github.io/teamspeak-5-theme-generator",
+  "homepage": "https://Gamer92000.github.io/teamspeak-theme-generator",
   "private": true,
   "dependencies": {
     "@floating-ui/react": "^0.27.3",
