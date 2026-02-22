@@ -60,7 +60,7 @@
 .contentContainer {
   height: 100%;
   overflow: auto;
-  padding: 0 50px;
+  padding: 0 40px;
   display: flex;
   flex-direction: row;
   justify-content: center;
