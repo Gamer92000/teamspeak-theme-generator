@@ -54,7 +54,7 @@ const App = () => {
   return (
     <div className="App">
       <div className="header">
-        <h1>TeamSpeak 5 Theme Generator</h1>
+        <h1>TeamSpeak Theme Generator</h1>
         <ExportButton />
       </div>
       <div className="contentContainer">

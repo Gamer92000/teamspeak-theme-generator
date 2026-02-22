@@ -14,9 +14,9 @@ const packageJson = `
   "engines": {
     "teamspeak": 1
   },
-  "homepage": "https://github.com/Gamer92000/teamspeak-5-theme-generator",
-  "docsUrl": "https://github.com/Gamer92000/teamspeak-5-theme-generator",
-  "repository": "https://github.com/Gamer92000/teamspeak-5-theme-generator",
+  "homepage": "https://github.com/Gamer92000/teamspeak-theme-generator",
+  "docsUrl": "https://github.com/Gamer92000/teamspeak-theme-generator",
+  "repository": "https://github.com/Gamer92000/teamspeak-theme-generator",
   "image": "custom.png",
   "license": "MIT",
   "author": {
