@@ -63,8 +63,7 @@
       "description": "Blurs the changelog, so you don't accidentally leak the alpha changes again...",
       "imagePath": "/pictures/no_changelog.png",
       "category": 1,
-      "css": "/components/no_changelog.css",
-      "disabled": true
+      "css": "/components/no_changelog.css"
     },
     {
       "id": 11,
@@ -121,7 +120,9 @@
       "imagePath": "/pictures/snow.png",
       "category": 2,
       "css": "/components/snow.css",
-      "resources": ["/components/snow.svg"]
+      "resources": [
+        "/components/snow.svg"
+      ]
     },
     {
       "id": 19,
@@ -130,7 +131,9 @@
       "imagePath": "/pictures/bacon_rain.png",
       "category": 3,
       "css": "/components/bacon_rain.css",
-      "resources": ["/components/bacon.svg"]
+      "resources": [
+        "/components/bacon.svg"
+      ]
     },
     {
       "id": 20,

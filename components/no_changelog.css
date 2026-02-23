@@ -1,10 +1,10 @@
-.tsv-dashboard-widget-content:has(.tsv-changelog-selectable) {
-  filter: blur(6px);
+.tsv-changelog-entry > .ts-widget-wrapper > * {
+  filter: blur(10px);
   transition: 0.3s ease all;
   transition-delay: 0s;
 }
 
-.tsv-dashboard-widget-content:has(.tsv-changelog-selectable):hover {
+.tsv-changelog-entry:hover > .ts-widget-wrapper > * {
   filter: blur(0px);
   transition-delay: 1s;
 }
